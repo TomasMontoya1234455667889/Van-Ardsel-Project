@@ -75,9 +75,9 @@ Manufacturer:  <br/>
 <br />
 <br />
 Competitor vs Van Ardsel Tooltip:  <br/>
-<img src="https://i.imgur.com/PuVXl4w.png" height="30%" width="10%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PuVXl4w.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Category Sum:  <br/>
-<img src="https://i.imgur.com/8WTLT5A.png" height="30%" width="10%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8WTLT5A.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 </p>
